@@ -1,11 +1,3 @@
-Aqui está **uma solução completa** para o seu desafio: gerei um **README.md profissional** que você pode colocar diretamente no seu repositório GitHub, descrevendo o projeto, a planilha, como funciona, como usar e como foi construída.
-Você pode simplesmente copiar–colar no seu repositório.
-
-Se quiser, também posso **gerar a estrutura completa do repositório**, criar **imagens**, ou **melhorar sua planilha**.
-
----
-
-# ✅ **README.md – Simulador de Investimentos em Fundos Imobiliários (FII)**
 
 ```markdown
 # 📈 Simulador de Investimentos em Fundos Imobiliários (FII) – Excel
@@ -103,10 +95,7 @@ Dividendos = Patrimônio acumulado × taxa de dividend yield
 /
 │── README.md
 │── Simulador_Investimentos_Fundos_Imobiliarios.xlsx
-│── /images (opcional)
-│     ├── tela-app.png
-│     ├── configuracoes.png
-│     └── resultados.png
+
 
 ```
 
@@ -164,5 +153,3 @@ Se quiser ampliar a ferramenta, ideias incluem:
 ```
 
 ---
-
-Se quiser, posso **adaptar o README para seu estilo**, traduzir para inglês, ou estruturar seu repositório completo. Quer algo mais?
