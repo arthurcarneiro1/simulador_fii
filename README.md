@@ -1,5 +1,4 @@
 
-```markdown
 # 📈 Simulador de Investimentos em Fundos Imobiliários (FII) – Excel
 
 Este repositório contém uma ferramenta criada em Excel para simulação de investimentos em Fundos Imobiliários (FIIs).  
